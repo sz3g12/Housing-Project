@@ -6,3 +6,6 @@ i.e. downloading data from the website via API, reading in data files, data clea
 
 Data source:
 https://www.ura.gov.sg/realEstateIIWeb/transaction/search.action
+
+Tools:
+R (shiny), Python
