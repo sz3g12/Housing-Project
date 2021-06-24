@@ -1,0 +1,1 @@
+curl "https://www.ura.gov.sg/uraDataService/invokeUraDS?service=PMI_Resi_Transaction&batch=1" -H "AccessKey: 8c587da7-0a9d-4f46-92e1-9c084d780333" -H "Token: upg@3@bR8kJccZQmtU6Zc3Mc-HYM4e57Y7UWzhEg1m8Y8TETxV9aqhha-Uv76294808q25Bz8Vz23ma-TM3t7n3bWud-EN5e0JPz" -o rs_01.json 
